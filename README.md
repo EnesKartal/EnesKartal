@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I work as a software development manager, and I'm actively coding. I'm interested in web applications. <br><br>I'm mainly worked in .NET technologies from 2017 to now. I also interested with JS based languages since 2021.<br><br>- 🔭 I’m currently working on NextJS<br>- 📫 How to reach me: eneskartal117@gmail.com</p>
+<p align="left">I work as a software development manager, and I'm actively coding. I'm interested in web applications. <br><br>I'm mainly worked in .NET technologies from 2017 to now. I also interested with JS based languages since 2021. I'm experienced with micro services.<br><br>- 🔭 I’m currently working on .NET 8 and Angular <br>- 📫 How to reach me: eneskartal117@gmail.com</p>
 
 ###
 

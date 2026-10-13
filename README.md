@@ -22,14 +22,14 @@
 ### 👋 About
 
 ```csharp
-public sealed record EnesKartal : Engineer
+var me = new Engineer
 {
-    public string Role      => "Software Development Manager — still writing code every day";
-    public string Location  => "Türkiye 🇹🇷";
-    public int    Since     => 2017;
-    public string[] Builds  => ["Multi-tenant SaaS", "Mobile apps", "ERP integrations", "AI agents"];
-    public string   Motto   => "Ship it, measure it, make it boring and reliable.";
-}
+    Role   = "Dev Manager, still coding daily",
+    Base   = "Türkiye 🇹🇷",
+    Since  = 2017,
+    Builds = ["SaaS", "Mobile", "ERP links", "AI agents"],
+    Motto  = "Ship it. Measure it. Keep it boring."
+};
 ```
 
 - 🏗️ I design and ship **end-to-end products**: database schema → API → web panel → mobile app → deployment.
@@ -135,9 +135,6 @@ public sealed record EnesKartal : Engineer
   <img src="https://streak-stats.demolab.com?user=EnesKartal&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesKartal&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%" alt="activity graph" />
-</p>
 
 <!-- Footer -->
 <p align="center">

@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Enes%20Kartal&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Development%20Manager%20%C2%B7%20Full-Stack%20%C2%B7%20SaaS%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Enes Kartal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Enes%20Kartal&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20SaaS%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Enes Kartal" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ```csharp
 var me = new Engineer
 {
-    Role   = "Dev Manager, still coding daily",
+    Role   = "Senior Software Developer",
     Base   = "Türkiye 🇹🇷",
     Since  = 2017,
     Builds = ["Web", "Mobile", "APIs", "AI agents"],

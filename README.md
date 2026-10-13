@@ -1,90 +1,145 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Enes%20Kartal&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Development%20Manager%20%C2%B7%20Full-Stack%20%C2%B7%20SaaS%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Enes Kartal" />
+</p>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eneskartal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://eneskartal.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=.NET+8+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Multi-tenant+SaaS+from+schema+to+store;AI+agents+wired+into+real+business+flows;Shipping+since+2017" alt="Typing SVG" />
   </a>
-  <a href="https://twitter.com/eeneskartall" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/deagle17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://medium.com/@kartalenes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://instagram.com/eeneskartall" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eneskartal.eneskartal&"  />
-</div>
+</p>
 
-<h1 align="center">Hey there I'm Enes Kartal👋</h1>
+<p align="center">
+  <a href="https://eneskartal.com"><img src="https://img.shields.io/badge/eneskartal.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eneskartal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/eeneskartall"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@kartalenes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:eneskartal117@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👋 About
 
-###
+```csharp
+public sealed record EnesKartal : Engineer
+{
+    public string Role      => "Software Development Manager — still writing code every day";
+    public string Location  => "Türkiye 🇹🇷";
+    public int    Since     => 2017;
+    public string[] Builds  => ["Multi-tenant SaaS", "Mobile apps", "ERP integrations", "AI agents"];
+    public string   Motto   => "Ship it, measure it, make it boring and reliable.";
+}
+```
 
-<p align="left">I work as a software development manager, and I'm actively coding. I'm interested in web applications. <br><br>I'm mainly worked in .NET technologies from 2017 to now. I also interested with JS based languages since 2021. I'm experienced with micro services.<br><br>- 🔭 I’m currently working on .NET 8 and Angular <br>- 📫 How to reach me: eneskartal117@gmail.com</p>
+- 🏗️ I design and ship **end-to-end products**: database schema → API → web panel → mobile app → deployment.
+- 🤖 I build **AI-assisted workflows** — voice-to-action assistants, automated SEO/blog pipelines, LLM-powered reporting.
+- 🔌 I connect modern apps to **legacy systems** (ERP / accounting software, MSSQL, e-invoice) without breaking the business.
+- 📱 Lately: **Next.js 15 + Prisma + PostgreSQL RLS** on the web, **React Native + Expo** on mobile, **.NET 8** on the backend.
 
-###
+---
 
-<h3 align="center">🛠 Tech Stack</h3>
+### 🚀 What I'm building
 
-###
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧯 FireTrack</h4>
+      <sub>Fire-safety maintenance SaaS — inventory, periodic inspections, drills, certificates & e-invoicing, plus an offline field-technician app.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
+      <img src="https://img.shields.io/badge/PostgreSQL_RLS-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖨️ PrintBeacon</h4>
+      <sub>Printer fleet monitoring & reporting platform — agents collect device status, the panel turns it into usage, toner & SLA insights.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet" />
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔥 IsılKayıt</h4>
+      <sub>Order, pricing and quality-control SaaS for heat-treatment & surface-treatment shops.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌿 Aheste</h4>
+      <sub>Offline-first mobile app that helps people quit smoking gradually — slowly, kindly, measurably.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" />
+      <img src="https://img.shields.io/badge/Offline--first-10B981?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎙️ Voice Assistant for Field Teams</h4>
+      <sub>Telegram voice note → Whisper transcription → Claude extraction → approval queue inside FireTrack.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🪑 Furniture Planner · 📊 ERP Reporting</h4>
+      <sub>Parametric furniture quoting SaaS on Supabase, and MSSQL-backed ERP reporting bots that deliver PDFs over Telegram.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<h3 align="center">🔥   My Stats</h3>
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python,prisma,graphql&perline=10" />
+</p>
 
-###
+<p align="center"><b>Frontend & Mobile</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,angular,tailwind,js,html,css&perline=10" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eneskartal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center"><b>Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,mysql,sqlite&perline=10" />
+</p>
 
-###
+<p align="center"><b>DevOps & Tooling</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,nginx,git,github,githubactions,vscode,visualstudio&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--tenant_SaaS-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Row--Level_Security-4169E1?style=flat-square" />
+  <img src="https://img.shields.io/badge/e--Invoice_(GİB)-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Agents-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure_DevOps_CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EnesKartal&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesKartal&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%" alt="activity graph" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
+</p>

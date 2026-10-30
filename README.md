@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://eneskartal.com">
+  <a href="https://www.linkedin.com/in/eneskartal/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=.NET+8+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Multi-tenant+SaaS+from+schema+to+store;AI+agents+wired+into+real+business+flows;Shipping+since+2017" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://eneskartal.com"><img src="https://img.shields.io/badge/eneskartal.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eneskartal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/eeneskartall"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://medium.com/@kartalenes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>

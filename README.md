@@ -66,6 +66,7 @@ var me = new Engineer
 
 I fix the bugs I run into in the tools I use every day.
 
+- [tr-toolkit](https://github.com/EnesKartal/tr-toolkit): Turkish validation and locale helpers for TypeScript ([npm](https://www.npmjs.com/package/@eneskartal/tr-toolkit))
 - [jstedfast/MailKit#2032](https://github.com/jstedfast/MailKit/pull/2032): accept a proxy CONNECT response with no reason phrase
 
 ---

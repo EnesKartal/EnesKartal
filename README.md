@@ -58,6 +58,18 @@ var me = new Engineer
 
 ---
 
+### 🌱 Open Source
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AEnesKartal+is%3Amerged+-user%3AEnesKartal"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AEnesKartal%20is%3Amerged%20-user%3AEnesKartal&label=Merged%20PRs&style=for-the-badge&color=7c3aed" alt="Merged PRs" /></a>
+</p>
+
+I fix the bugs I run into in the tools I use every day.
+
+- [jstedfast/MailKit#2032](https://github.com/jstedfast/MailKit/pull/2032): accept a proxy CONNECT response with no reason phrase
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center"><b>Backend</b></p>

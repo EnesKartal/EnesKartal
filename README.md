@@ -38,19 +38,6 @@ var me = new Engineer
 
 ---
 
-### 🚀 Products I Build and Run
-
-Live products, built solo end to end: schema, API, web, mobile, infrastructure and SEO.
-
-| Product | What it does | Stack |
-|---|---|---|
-| **[PrintBeacon](https://printbeacon.com)** | Printer fleet and service management. A cross-platform agent reads counters over SNMP; contracts, invoicing and ERP sync run on top. | .NET 8 · Next.js · Windows/Linux/macOS agent · multi-tenant |
-| **[Yangın Takip](https://yangintakip.com)** | Fire safety service management: QR-tagged equipment, maintenance and refill schedules, site surveys, quotes and inspection reports. | Next.js · Prisma · PostgreSQL RLS · React Native |
-| **[Hemen Yanıt](https://hemenyanit.com)** | AI assistant that answers WhatsApp and Instagram messages with the business's own information and books appointments into its calendar. | Next.js · LLMs · Meta APIs |
-| **[Yıldızname](https://yildizname.app)** | Personal yıldızname readings based on the traditional ebced calculation, on the web and Android. | Next.js · Expo |
-
----
-
 ### 🤖 AI Toolbox
 
 <p align="center">

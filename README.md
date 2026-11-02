@@ -38,6 +38,19 @@ var me = new Engineer
 
 ---
 
+### 🚀 Products I Build and Run
+
+Live products, built solo end to end: schema, API, web, mobile, infrastructure and SEO.
+
+| Product | What it does | Stack |
+|---|---|---|
+| **[PrintBeacon](https://printbeacon.com)** | Printer fleet and service management. A cross-platform agent reads counters over SNMP; contracts, invoicing and ERP sync run on top. | .NET 8 · Next.js · Windows/Linux/macOS agent · multi-tenant |
+| **[Yangın Takip](https://yangintakip.com)** | Fire safety service management: QR-tagged equipment, maintenance and refill schedules, site surveys, quotes and inspection reports. | Next.js · Prisma · PostgreSQL RLS · React Native |
+| **[Hemen Yanıt](https://hemenyanit.com)** | AI assistant that answers WhatsApp and Instagram messages with the business's own information and books appointments into its calendar. | Next.js · LLMs · Meta APIs |
+| **[Yıldızname](https://yildizname.app)** | Personal yıldızname readings based on the traditional ebced calculation, on the web and Android. | Next.js · Expo |
+
+---
+
 ### 🤖 AI Toolbox
 
 <p align="center">
@@ -52,7 +65,7 @@ var me = new Engineer
 </p>
 
 - 🧠 **Agentic development** — Claude Code with custom skills, subagents & hooks for planning, review and shipping.
-- 🔌 **MCP integrations** — Azure DevOps, Figma, browser automation and internal APIs exposed as agent tools.
+- 🔌 **MCP integrations** — GitHub, Figma, browser automation and internal APIs exposed as agent tools.
 - 🎙️ **LLM in production** — speech-to-text (Whisper) → structured extraction (Claude) → human approval queues.
 - ⚡ **Automation pipelines** — scheduled AI jobs for content, SEO and daily digests (Claude, Groq).
 
@@ -66,8 +79,29 @@ var me = new Engineer
 
 I fix the bugs I run into in the tools I use every day.
 
+**My packages**
+
 - [tr-toolkit](https://github.com/EnesKartal/tr-toolkit): Turkish validation and locale helpers for TypeScript ([npm](https://www.npmjs.com/package/@eneskartal/tr-toolkit))
+
+**Merged**
+
+- [quartznet/quartznet#4190](https://github.com/quartznet/quartznet/pull/4190): show an error for an invalid cron expression on save in the dashboard
 - [jstedfast/MailKit#2032](https://github.com/jstedfast/MailKit/pull/2032): accept a proxy CONNECT response with no reason phrase
+
+**In review**
+
+| Project | Pull request |
+|---|---|
+| EF Core | [#39491](https://github.com/dotnet/efcore/pull/39491) only translate static `Compare` methods declared on the operand type · [#39490](https://github.com/dotnet/efcore/pull/39490) fix a flaky `SaveChangesAsync` test |
+| Next.js | [#100944](https://github.com/vercel/next.js/pull/100944) filter prerender abort rejections by digest |
+| Expo | [#52601](https://github.com/expo/expo/pull/52601) clamp the frame freeze time at zero on Android |
+| Prisma | [#30913](https://github.com/prisma/orm/pull/30913) infer `Bytes` for `Buffer` values in the better-sqlite3 adapter |
+| Npgsql | [#6738](https://github.com/npgsql/npgsql/pull/6738) culture-invariant `NpgsqlRange<T>` formatting · [efcore.pg#4117](https://github.com/npgsql/efcore.pg/pull/4117) admin connection with `SetDbConnection` |
+| Reanimated | [#11097](https://github.com/software-mansion/react-native-reanimated/pull/11097) Jest utility types for TypeScript consumers |
+| React Native SVG | [#3108](https://github.com/software-mansion/react-native-svg/pull/3108) stop passing responder props to the DOM on web |
+| next-intl | [#2446](https://github.com/amannn/next-intl/pull/2446) shorthand formats in `useExtracted` · [#2445](https://github.com/amannn/next-intl/pull/2445) atomic catalog writes |
+| NativeWind | [#1880](https://github.com/nativewind/nativewind/pull/1880) keep `withNativewind` defaults for undefined options |
+| React DayPicker | [#3030](https://github.com/gpbl/react-day-picker/pull/3030) accessible day labels that match the visible day number |
 
 ---
 

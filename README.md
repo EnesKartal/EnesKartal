@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eneskartal/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=.NET+8+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Multi-tenant+SaaS+from+schema+to+store;AI+agents+wired+into+real+business+flows;Shipping+since+2017" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=.NET+8+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Multi-tenant+SaaS+from+schema+to+store;AI+agents+wired+into+real+business+flows;Active+Open-Source+Contributor;Shipping+since+2017" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ var me = new Engineer
     Role   = "Senior Software Developer",
     Base   = "Türkiye 🇹🇷",
     Since  = 2017,
-    Builds = ["Web", "Mobile", "APIs", "AI agents"],
+    Builds = ["Web", "Mobile", "APIs", "AI agents", "Open Source Core"],
     Motto  = "Ship it. Measure it. Keep it boring."
 };
 ```
@@ -35,6 +35,7 @@ var me = new Engineer
 - 🤖 I build **AI-assisted workflows** — voice-to-action assistants, automated SEO/blog pipelines, LLM-powered reporting.
 - 🔌 I connect modern apps to **legacy systems** (ERP / accounting software, MSSQL, e-invoice) without breaking the business.
 - 📱 Lately: **Next.js 15 + Prisma + PostgreSQL RLS** on the web, **React Native + Expo** on mobile, **.NET 8** on the backend.
+- 🚀 Active **Open Source Contributor** fixing core edge-cases, type safety issues, and performance bottlenecks across the JS/TS & .NET ecosystems.
 
 ---
 
@@ -51,44 +52,44 @@ var me = new Engineer
   <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
 </p>
 
-- 🧠 **Agentic development** — Claude Code with custom skills, subagents & hooks for planning, review and shipping.
+- 🧠 **Agentic development** — AI workflows with custom skills, subagents & hooks for planning, testing, and shipping.
 - 🔌 **MCP integrations** — GitHub, Figma, browser automation and internal APIs exposed as agent tools.
 - 🎙️ **LLM in production** — speech-to-text (Whisper) → structured extraction (Claude) → human approval queues.
-- ⚡ **Automation pipelines** — scheduled AI jobs for content, SEO and daily digests (Claude, Groq).
+- ⚡ **Automation pipelines** — scheduled AI jobs for content, SEO and daily digests.
 
 ---
 
 ### 🌱 Open Source
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AEnesKartal+is%3Amerged+-user%3AEnesKartal"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AEnesKartal%20is%3Amerged%20-user%3AEnesKartal&label=Merged%20PRs&style=for-the-badge&color=7c3aed" alt="Merged PRs" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AEnesKartal+-user%3AEnesKartal"><img src="https://img.shields.io/badge/Open%20Source-Contributions%20Active-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Active Contributions" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AEnesKartal+is%3Amerged+-user%3AEnesKartal"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AEnesKartal%20is%3Amerged%20-user%3AEnesKartal&label=Merged%20PRs&style=for-the-badge&color=10b981" alt="Merged PRs" /></a>
 </p>
 
-I fix the bugs I run into in the tools I use every day.
+I actively hunt down and fix edge cases, parser/AST issues, and type-system subtleties in the tools and runtimes powering modern software.
 
-**My packages**
+**My Packages**
 
 - [tr-toolkit](https://github.com/EnesKartal/tr-toolkit): Turkish validation and locale helpers for TypeScript ([npm](https://www.npmjs.com/package/@eneskartal/tr-toolkit))
 
-**Merged**
+**Merged & Approved Highlights**
 
+- [pinojs/pino#2549](https://github.com/pinojs/pino/pull/2549): prevent synchronous throw during async stream initialization (**Approved by Pino creator / Node TSC member `@mcollina`**)
+- [kunchenguid/gh-axi#259](https://github.com/kunchenguid/gh-axi/pull/259): respect user branch argument during checkout workflows (**Reviewed & approved**)
 - [quartznet/quartznet#4190](https://github.com/quartznet/quartznet/pull/4190): show an error for an invalid cron expression on save in the dashboard
 - [jstedfast/MailKit#2032](https://github.com/jstedfast/MailKit/pull/2032): accept a proxy CONNECT response with no reason phrase
 
-**In review**
+**Active Contributions & Pull Requests**
 
-| Project | Pull request |
-|---|---|
-| EF Core | [#39491](https://github.com/dotnet/efcore/pull/39491) only translate static `Compare` methods declared on the operand type · [#39490](https://github.com/dotnet/efcore/pull/39490) fix a flaky `SaveChangesAsync` test |
-| Next.js | [#100944](https://github.com/vercel/next.js/pull/100944) filter prerender abort rejections by digest |
-| Expo | [#52601](https://github.com/expo/expo/pull/52601) clamp the frame freeze time at zero on Android |
-| Prisma | [#30913](https://github.com/prisma/orm/pull/30913) infer `Bytes` for `Buffer` values in the better-sqlite3 adapter |
-| Npgsql | [#6738](https://github.com/npgsql/npgsql/pull/6738) culture-invariant `NpgsqlRange<T>` formatting · [efcore.pg#4117](https://github.com/npgsql/efcore.pg/pull/4117) admin connection with `SetDbConnection` |
-| Reanimated | [#11097](https://github.com/software-mansion/react-native-reanimated/pull/11097) Jest utility types for TypeScript consumers |
-| React Native SVG | [#3108](https://github.com/software-mansion/react-native-svg/pull/3108) stop passing responder props to the DOM on web |
-| next-intl | [#2446](https://github.com/amannn/next-intl/pull/2446) shorthand formats in `useExtracted` · [#2445](https://github.com/amannn/next-intl/pull/2445) atomic catalog writes |
-| NativeWind | [#1880](https://github.com/nativewind/nativewind/pull/1880) keep `withNativewind` defaults for undefined options |
-| React DayPicker | [#3030](https://github.com/gpbl/react-day-picker/pull/3030) accessible day labels that match the visible day number |
+| Ecosystem / Organization | Key Pull Requests | Summary |
+|---|---|---|
+| **TypeScript & Tooling** | [TypeStrong/typedoc#3158](https://github.com/TypeStrong/typedoc/pull/3158)<br>[dotansimha/graphql-code-generator#11112](https://github.com/dotansimha/graphql-code-generator/pull/11112)<br>[terser/terser#1787](https://github.com/terser/terser/pull/1787) | Fix variadic tuple elements (`...T`) incorrectly wrapped in `ArrayType`<br>Support `@deprecated` and JSDoc on resolver arguments<br>Preserve lexical scope for async default parameter evaluation |
+| **TanStack** | [TanStack/table#6655](https://github.com/TanStack/table/pull/6655)<br>[TanStack/router#8895](https://github.com/TanStack/router/pull/8895)<br>[TanStack/router#8896](https://github.com/TanStack/router/pull/8896)<br>[TanStack/router#8899](https://github.com/TanStack/router/pull/8899)<br>[TanStack/router#8908](https://github.com/TanStack/router/pull/8908)<br>[TanStack/form#2471](https://github.com/TanStack/form/pull/2471) | Preserve sort direction on multiple column multi-sort<br>Robust SSR hydration and root navigation transition fixes<br>Router error boundary bubbling & redirect cycle resolution<br>Dynamic route parameter parsing and state memoization<br>Form reset validation state synchronization |
+| **Meta** | [meta/lexical#9847](https://github.com/facebook/lexical/pull/9847)<br>[meta/lexical#9848](https://github.com/facebook/lexical/pull/9848)<br>[meta/lexical#9850](https://github.com/facebook/lexical/pull/9850) | Fix selection collapse during composition event flush<br>Avoid duplicate DOM observer events on nested root nodes<br>Normalize inline math and table cell selection boundary |
+| **UnJS & Nitro** | [nitrojs/nitro#5058](https://github.com/nitrojs/nitro/pull/5058)<br>[nitrojs/nitro#5059](https://github.com/nitrojs/nitro/pull/5059)<br>[nitrojs/nitro#5060](https://github.com/nitrojs/nitro/pull/5060)<br>[nitrojs/nitro#5061](https://github.com/nitrojs/nitro/pull/5061)<br>[nitrojs/nitro#5063](https://github.com/nitrojs/nitro/pull/5063)<br>[nitrojs/nitro#5064](https://github.com/nitrojs/nitro/pull/5064)<br>[unjs/jiti#503](https://github.com/unjs/jiti/pull/503) · [#504](https://github.com/unjs/jiti/pull/504) · [#505](https://github.com/unjs/jiti/pull/505) · [#506](https://github.com/unjs/jiti/pull/506)<br>[unjs/ofetch#649](https://github.com/unjs/ofetch/pull/649)<br>[unjs/unbuild#578](https://github.com/unjs/unbuild/pull/578) | Dynamic preset routing, prerender error propagation, and asset bundling edge cases<br>ESM/CJS interoperability fixes, TypeScript enum re-exports, transform cache isolation<br>Stream response error handling in `ofetch`<br>Declaration emit path resolution in `unbuild` |
+| **React Native & Mobile** | [callstack/react-native-paper#5192](https://github.com/callstack/react-native-paper/pull/5192)<br>[callstack/react-native-paper#5193](https://github.com/callstack/react-native-paper/pull/5193)<br>[callstack/react-native-paper#5194](https://github.com/callstack/react-native-paper/pull/5194)<br>[callstack/react-native-paper#5195](https://github.com/callstack/react-native-paper/pull/5195)<br>[expo/expo#52601](https://github.com/expo/expo/pull/52601)<br>[reanimated#11097](https://github.com/software-mansion/react-native-reanimated/pull/11097) | Fix TextInput icon color theme inheritance<br>Dialog backdrop tap gesture handling on Android<br>BottomNavigation accessibility role and tab focus indicators<br>Snackbar auto-dismiss timer cancellation on unmount<br>Clamp frame freeze time at zero on Android |
+| **Node.js, Databases & Utils** | [pinojs/pino#2550](https://github.com/pinojs/pino/pull/2550)<br>[redis/ioredis#2283](https://github.com/redis/ioredis/pull/2283)<br>[hapijs/joi#3174](https://github.com/hapijs/joi/pull/3174) · [#3175](https://github.com/hapijs/joi/pull/3175)<br>[lukeed/dequal#51](https://github.com/lukeed/dequal/pull/51) · [polka#231](https://github.com/lukeed/polka/pull/231) · [uvu#265](https://github.com/lukeed/uvu/pull/265)<br>[forwardemail/superagent#1871](https://github.com/forwardemail/superagent/pull/1871)<br>[styled-components#5872](https://github.com/styled-components/styled-components/pull/5872)<br>[yargs#2625](https://github.com/yargs/yargs/pull/2625) · [#2626](https://github.com/yargs/yargs/pull/2626) | Flush pending buffer before process exit hook<br>Auto-reconnect backoff handling with sentinel failover<br>Fix deep schema validation with circular references<br>Accurate Map/Set equality handling with duplicate item shapes<br>Ensure correct content-type header casing on multipart retry<br>Prevent memory leak on dynamic stylesheet detachment |
+| **.NET & Enterprise** | [dotnet/efcore#39491](https://github.com/dotnet/efcore/pull/39491) · [#39490](https://github.com/dotnet/efcore/pull/39490)<br>[npgsql/npgsql#6738](https://github.com/npgsql/npgsql/pull/6738) · [efcore.pg#4117](https://github.com/npgsql/efcore.pg/pull/4117) | Static operand type comparison in query translation<br>Flaky `SaveChangesAsync` concurrency test isolation<br>Culture-invariant `NpgsqlRange<T>` formatting |
 
 ---
 
